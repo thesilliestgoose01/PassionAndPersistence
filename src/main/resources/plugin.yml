@@ -1,0 +1,6 @@
+name: PassionAndPersistence
+version: '${project.version}'
+main: me.mill_floverr.passionandpersistence.PassionAndPersistence
+api-version: '1.20'
+authors: [mill_floverr]
+description: A plugin which drastically increases the roleplaying possibilities of a server.
